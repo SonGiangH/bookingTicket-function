@@ -1,23 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import ExerciseBookingTicket from './BookingTicket/ExerciseBookingTicket';
+// import ExerciseRollingDice from './rollingDice/ExerciseRollingDice';
+// import ExerciseCartRedux from './CartRedux/ExerciseCartRedux';
+// import ExerciseCart from './ShoppingCart/ExerciseCart';
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <ExerciseCart /> */}
+      {/* <ExerciseCartRedux /> */}
+      {/* <ExerciseRollingDice /> */}
+      <ExerciseBookingTicket />
     </div>
   );
 }

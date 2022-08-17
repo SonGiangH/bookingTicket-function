@@ -1,0 +1,6 @@
+[
+    {"id": 1, "name": "black car", "img" : "./carsImg/black-car.jpg", "price": 1000 },
+    {"id": 2, "name": "red car", "img" : "./carsImg/red-car.jpg", "price": 150000 },
+    {"id": 3, "name": "silver car", "img" : "./carsImg/silver-car.jpg", "price": 250000 },
+    {"id": 4, "name": "steel car", "img" : "./carsImg/steel-car.jpg", "price": 30000 }
+  ]

@@ -1,0 +1,12 @@
+{
+    "liveSassCompile.settings.includeItems": [
+    
+    ],
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+    }
+}
